@@ -1,5 +1,57 @@
 ## Hi there 👋
+# 👋 Hola, soy Azmartin474
 
+💻 Ingeniero de Sistemas | 📊 Ingeniería Industrial | 💻 Ingeniero Electronico
+🎓 Docente universitario | 🚀 Apasionado por la tecnología y la IA  
+
+---
+
+## 🚀 Sobre mí
+- 👨‍🏫 Docente en áreas como:
+  - Auditoría y Control Interno
+  - Macroeconomía
+  - Proyectos y Planeación Estratégica
+- 🧠 Interesado en:
+  - Inteligencia Artificial
+  - IoT
+  - Desarrollo de software
+  - Automatización y sistemas
+- ✈️ Sueño a largo plazo: trabajar en el sector aeronáutico
+
+---
+
+## 🛠️ Lenguajes y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,flask,spring" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Conecta conmigo
+<p align="left">
+  <a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.youtube.com/"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+</p>
+
+---
+
+⭐ *Siempre aprendiendo y construyendo*
 <!--
 **azmartin474/azmartin474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
