@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 | Hola
 # 👋 Hola, soy Azmartin474
 
 💻 Ingeniero de Sistemas | 📊 Ingeniería Industrial | 💻 Ingeniero Electronico
