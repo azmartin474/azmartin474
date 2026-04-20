@@ -46,7 +46,7 @@
 <p align="left">
   <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/alvaro-martinez-7051a43a8/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.youtube.com/"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://www.youtube.com/@AlvySkillPath"><img src="https://skillicons.dev/icons?i=youtube" /></a>
 </p>
 
 ---
