@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 👨‍🏫 //// en áreas como:
+- 👨‍🏫 ---- en áreas como:
   - Auditoría y Control Interno
   - Macroeconomía
   - Proyectos y Planeación Estratégica
