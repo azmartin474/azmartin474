@@ -2,12 +2,12 @@
 # 👋 Hola, soy Azmartin474
 
 💻 Ingeniero de Sistemas | 📊 Industrial | 💻 Electronico
-🎓 -universitario | 🚀 Apasionado por la tecnología y la IA  
+🎓 Universitario | 🚀 Apasionado por la tecnología y la IA  
 
 ---
 
 ## 🚀 Sobre mí
-- 👨‍🏫 - en áreas como:
+- 👨‍🏫 En áreas como:
   - Auditoría y Control Interno
   - Macroeconomía
   - Proyectos y Planeación Estratégica
