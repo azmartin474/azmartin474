@@ -2,7 +2,7 @@
 # 👋 Hola, soy Azmartin474
 
 💻 Ingeniero de Sistemas | 📊 Industrial | 💻 Electronico
-🎓 Universitario | 🚀 Apasionado por la tecnología y la IA  
+🎓 Universitario | 🚀 Apasionado por la tecnología 
 
 ---
 
