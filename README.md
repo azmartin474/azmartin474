@@ -9,7 +9,7 @@
 ## 🚀 Sobre mí
 - 👨‍🏫 En áreas como:
   - Auditoría y Control Interno
-  - Macroeconomía
+  - Macro y Micro Economía
   - Proyectos y Planeación Estratégica
 - 🧠 Interesado en:
   - Inteligencia Artificial
