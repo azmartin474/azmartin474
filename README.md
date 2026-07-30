@@ -11,7 +11,7 @@
   - Auditoría y Control Interno
   - Macro y Micro Economía
   - Proyectos y Planeación Estratégica
-- 🧠 Interesado en:
+- 🧠 Intereses:
   - Inteligencia Artificial
   - IoT
   - Desarrollo de software
